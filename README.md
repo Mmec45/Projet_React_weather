@@ -13,7 +13,7 @@ Ce projet est une application météo développée en React. Elle permet aux uti
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/Projet_React_Weather.git
+   git clone https://github.com/Mmec45/Projet_React_Weather.git
 2. Accédez au répertoire du projet :
    ```bash
    cd Projet_React_Weather
